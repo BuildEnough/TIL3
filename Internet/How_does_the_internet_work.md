@@ -110,6 +110,7 @@ HTTPS는 HTTP의 보다 안전한 버전으로 SSL/TLS 암호화를 사용하여
 이렇게 하면 로그인 자격 증명, 결제 정보 및 기타 테이터와 같은 중요한 정보를 보호하는데 도움이 되는 (additional layer of security)추가 보안 계층이 제공된다<br>
 HTTPS를 사용하는 웹 사이트를 방문하면 웹 브라우저에 연결이 안전함을 나타내는 자물쇠 아이콘이 주소 표시줄에 표시된다<br>
 또한 웹 사이트의 시작 부분에 `http`가 아닌 `https`라는 문자가 표시될 수도 있다
+<br>
 ![HTTPS](images/HTTPS.png)
 
 <br>
