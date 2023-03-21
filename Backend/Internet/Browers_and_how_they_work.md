@@ -101,3 +101,9 @@ HTML, CSS 파일은 Rendering engine의 HTML parser와 CSS parser에 의해 Pars
 <br>
 
 [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361)
+
+[How browsers work](https://web.dev/howbrowserswork/)
+
+[Understanding the Role of Rendering Engine in Browsers](https://www.browserstack.com/guide/browser-rendering-engine)
+
+[How browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
