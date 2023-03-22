@@ -99,6 +99,11 @@ HTTP/2에서는 이런 간단한 메시지가 프레임 속으로 캡슐화되�
 
 <br>
 
+## 정리
+HTML은 하이퍼 텍스트를 마크업 하는 언어로 웹에서 자유롭게 오갈 수 있는 웹 문서를 만드는 언어이다
+
+<br>
+
 [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)<br>
 [Everything you need to know about HTTP](https://cs.fyi/guide/http-in-depth)<br>
 [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)<br>
