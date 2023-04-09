@@ -1,6 +1,6 @@
 package ObjectOrientedProgramming;
 
-public class TV {
+public class _3_TV {
     String color;
     boolean power;
     int channel;
@@ -12,23 +12,14 @@ public class TV {
     void channelDown() {--channel;}
 }
 
-//class TVTest {
-//    public static void main(String[] args) {
-//        TV t;
-//        t = new TV();
-//        t.channel = 7;
-//        t.channelDown();
-//        System.out.println(t.channel);
-//    }
-//}
-
-class TVTest2 {
+class TVTest3 {
     public static void main(String[] args) {
-        TV t1 = new TV();
-        TV t2 = new TV();
+        _3_TV t1 = new _3_TV();
+        _3_TV t2 = new _3_TV();
         System.out.println(t1.channel);
         System.out.println(t2.channel);
 
+        t2 = t1;
         t1.channel = 7;
         System.out.println("t1의 channel 값을 7로 변경");
 
