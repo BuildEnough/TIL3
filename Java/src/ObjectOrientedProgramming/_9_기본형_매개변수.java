@@ -1,7 +1,7 @@
 package ObjectOrientedProgramming;
 
 class Data { int x;}
-public class _9_참조형_매개변수1 {
+public class _9_기본형_매개변수 {
     public static void main(String[] args) {
         Data d = new Data();
         d.x = 10;
