@@ -24,3 +24,8 @@ $ echo $JAVA_HOME  <--- JAVA_HOME으로 지정된 경로 출력
 **eclipse 설치**
 <br>
 [Mac] https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2019-09/R/eclipse-java-2019-09-R-macosx-cocoa-x86_64.dmg&mirror_id=1273
+
+
+**Intellij 설치**
+[Mac] https://www.jetbrains.com/idea/download/#section=mac
+
