@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package Lagacy_Study2.ObjectOrientedProgramming;
 
 public class _2_TV {
     String color;

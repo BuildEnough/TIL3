@@ -1,4 +1,4 @@
-package Loop;
+package Lagacy_Study2.Loop;
 
 public class _3_별찍기1 {
     public static void main(String[] args) {

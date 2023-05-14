@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package Lagacy_Study2.ObjectOrientedProgramming;
 
 class Data5 { int x;}
 

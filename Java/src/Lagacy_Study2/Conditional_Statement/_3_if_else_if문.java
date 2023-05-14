@@ -1,4 +1,4 @@
-package Conditional_Statement;
+package Lagacy_Study2.Conditional_Statement;
 
 import java.util.Scanner;
 

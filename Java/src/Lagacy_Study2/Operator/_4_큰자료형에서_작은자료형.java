@@ -1,4 +1,4 @@
-package Operator;
+package Lagacy_Study2.Operator;
 
 public class _4_큰자료형에서_작은자료형 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Loop;
+package Lagacy_Study2.Loop;
 
 public class _5_행렬 {
     public static void main(String[] args) {

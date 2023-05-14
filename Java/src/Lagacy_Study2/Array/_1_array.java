@@ -1,4 +1,4 @@
-package Array;
+package Lagacy_Study2.Array;
 
 public class _1_array {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Loop;
+package Lagacy_Study2.Loop;
 
 public class _4_구구단 {
     public static void main(String[] args) {

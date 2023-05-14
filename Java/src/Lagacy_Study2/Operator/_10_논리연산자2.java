@@ -1,4 +1,4 @@
-package Operator;
+package Lagacy_Study2.Operator;
 
 import java.util.Scanner;
 

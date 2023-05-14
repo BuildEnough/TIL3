@@ -1,4 +1,4 @@
-package variable;
+package Lagacy_Study2.variable;
 
 public class _3_문자_문자열_결합 {
     public static void main(String[] args) {

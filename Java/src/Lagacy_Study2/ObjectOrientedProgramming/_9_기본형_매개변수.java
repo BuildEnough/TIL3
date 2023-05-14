@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package Lagacy_Study2.ObjectOrientedProgramming;
 
 class Data { int x;}
 public class _9_기본형_매개변수 {

@@ -1,4 +1,4 @@
-package Array;
+package Lagacy_Study2.Array;
 
 public class _6_배열복사 {
     public static void main(String[] args) {

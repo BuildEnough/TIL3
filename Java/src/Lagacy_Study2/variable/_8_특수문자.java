@@ -1,4 +1,4 @@
-package variable;
+package Lagacy_Study2.variable;
 
 public class _8_특수문자 {
     public static void main(String[] args) {

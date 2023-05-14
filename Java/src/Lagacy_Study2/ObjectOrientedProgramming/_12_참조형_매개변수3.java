@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package Lagacy_Study2.ObjectOrientedProgramming;
 
 public class _12_참조형_매개변수3 {
     public static void main(String[] args) {

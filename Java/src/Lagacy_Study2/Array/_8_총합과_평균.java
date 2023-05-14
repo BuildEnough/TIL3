@@ -1,4 +1,4 @@
-package Array;
+package Lagacy_Study2.Array;
 
 public class _8_총합과_평균 {
     public static void main(String[] args) {

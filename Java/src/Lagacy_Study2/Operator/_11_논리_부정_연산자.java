@@ -1,4 +1,4 @@
-package Operator;
+package Lagacy_Study2.Operator;
 
 public class _11_논리_부정_연산자 {
     public static void main(String[] args) {

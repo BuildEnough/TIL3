@@ -1,4 +1,4 @@
-package variable;
+package Lagacy_Study2.variable;
 
 public class _7_문자의_유니코드 {
     public static void main(String[] args) {

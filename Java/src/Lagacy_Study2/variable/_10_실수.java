@@ -1,4 +1,4 @@
-package variable;
+package Lagacy_Study2.variable;
 
 public class _10_실수 {
     public static void main(String[] args) {

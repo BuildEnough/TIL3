@@ -1,4 +1,4 @@
-package Loop;
+package Lagacy_Study2.Loop;
 
 public class _2_중첩_for문 {
     public static void main(String[] args) {

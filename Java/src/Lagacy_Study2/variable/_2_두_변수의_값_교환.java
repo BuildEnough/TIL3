@@ -1,4 +1,4 @@
-package variable;
+package Lagacy_Study2.variable;
 
 public class _2_두_변수의_값_교환 {
     public static void main(String[] args) {

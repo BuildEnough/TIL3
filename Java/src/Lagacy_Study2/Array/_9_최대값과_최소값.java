@@ -1,4 +1,4 @@
-package Array;
+package Lagacy_Study2.Array;
 
 public class _9_최대값과_최소값 {
     public static void main(String[] args) {

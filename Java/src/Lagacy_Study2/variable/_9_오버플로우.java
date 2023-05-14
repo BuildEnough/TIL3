@@ -1,4 +1,4 @@
-package variable;
+package Lagacy_Study2.variable;
 
 public class _9_오버플로우 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Operator;
+package Lagacy_Study2.Operator;
 
 public class _8_문자열_비교 {
     public static void main(String[] args) {

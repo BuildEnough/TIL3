@@ -1,4 +1,4 @@
-package variable;
+package Lagacy_Study2.variable;
 
 public class _11_형변환_캐스팅 {
     public static void main(String[] args) {

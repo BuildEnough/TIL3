@@ -1,4 +1,4 @@
-package Loop;
+package Lagacy_Study2.Loop;
 
 import java.util.Scanner;
 

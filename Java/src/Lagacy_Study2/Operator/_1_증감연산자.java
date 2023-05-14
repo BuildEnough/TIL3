@@ -1,4 +1,4 @@
-package Operator;
+package Lagacy_Study2.Operator;
 
 public class _1_증감연산자 {
     public static void main(String[] args) {

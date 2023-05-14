@@ -1,4 +1,4 @@
-package Conditional_Statement;
+package Lagacy_Study2.Conditional_Statement;
 
 public class _1_if문 {
     public static void main(String[] args) {

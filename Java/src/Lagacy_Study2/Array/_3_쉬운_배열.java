@@ -1,4 +1,4 @@
-package Array;
+package Lagacy_Study2.Array;
 
 public class _3_쉬운_배열 {
     public static void main(String[] args) {

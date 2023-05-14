@@ -1,4 +1,4 @@
-package Array;
+package Lagacy_Study2.Array;
 
 public class _2_배열_for초기화 {
     public static void main(String[] args) {

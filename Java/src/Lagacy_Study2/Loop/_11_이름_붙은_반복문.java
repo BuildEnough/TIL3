@@ -1,4 +1,4 @@
-package Loop;
+package Lagacy_Study2.Loop;
 
 public class _11_이름_붙은_반복문 {
     public static void main(String[] args) {

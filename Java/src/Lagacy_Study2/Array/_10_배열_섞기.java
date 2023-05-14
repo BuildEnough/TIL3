@@ -1,6 +1,4 @@
-package Array;
-
-import java.util.Arrays;
+package Lagacy_Study2.Array;
 
 public class _10_배열_섞기 {
     public static void main(String[] args) {

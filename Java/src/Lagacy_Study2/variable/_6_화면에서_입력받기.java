@@ -1,4 +1,4 @@
-package variable;
+package Lagacy_Study2.variable;
 
 import java.util.Scanner;
 

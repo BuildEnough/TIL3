@@ -1,4 +1,4 @@
-package Array;
+package Lagacy_Study2.Array;
 
 import java.util.Arrays;
 

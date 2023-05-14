@@ -1,4 +1,4 @@
-package Array;
+package Lagacy_Study2.Array;
 
 public class _4_길이가_0인_배열 {
     public static void main(String[] args) {
