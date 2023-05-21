@@ -14,10 +14,14 @@ class Tv {
 
 class Tvtest {
     public static void main(String[] args) {
-        Tv t;
-        t = new Tv();
-        t.channel = 7;
-        t.channelDown();
-        System.out.println(t.channel); // 6
+        Tv t1 = new Tv();
+        Tv t2 = new Tv();
+        System.out.println(t1.channel); // 0
+        System.out.println(t2.channel); // 0
+
+        t1.channel = 7;
+
+        System.out.println(t1.channel); // 7
+        System.out.println(t2.channel); // 0
     }
 }
