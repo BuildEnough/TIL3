@@ -21,7 +21,9 @@ class Tvtest {
 
         t1.channel = 7;
 
+        t2 = t1; // 참조변수 t1의 값을 t2에 저장
+
         System.out.println(t1.channel); // 7
-        System.out.println(t2.channel); // 0
+        System.out.println(t2.channel); // 7
     }
 }
