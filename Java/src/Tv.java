@@ -14,16 +14,15 @@ class Tv {
 
 class Tvtest {
     public static void main(String[] args) {
-        Tv t1 = new Tv();
-        Tv t2 = new Tv();
-        System.out.println(t1.channel); // 0
-        System.out.println(t2.channel); // 0
+        Tv[] tvArr = new Tv[3];
 
-        t1.channel = 7;
+        for (int i = 0; i < tvArr.length; i++) {
+            tvArr[i] = new Tv();
+            tvArr[i].channel = i;
+        }
 
-        t2 = t1; // 참조변수 t1의 값을 t2에 저장
-
-        System.out.println(t1.channel); // 7
-        System.out.println(t2.channel); // 7
+        for (int i = 0; i < tvArr.length; i++) {
+            System.out.println(tvArr[i].channel);
+        }
     }
 }
