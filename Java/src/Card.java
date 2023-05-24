@@ -32,9 +32,9 @@ class CardTest{
         System.out.println();
 
 
-        // c1의 width = 50, height = 80 변경
-        c1.width = 50;
-        c1.height = 80;
+        // Card의 width = 50, height = 80 변경
+        Card.width = 50;
+        Card.height = 80;
 
         System.out.println(c1.kind); // Heart
         System.out.println(c1.number); // 7
