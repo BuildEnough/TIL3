@@ -1,9 +1,9 @@
-class MyPoint {
+class MyPoint extends Object {
     int x;
     int y;
 }
 
-class Circle  { // 포함
+class Circle extends Object { // 포함
     MyPoint p = new MyPoint();
     int r;
 }
@@ -12,11 +12,10 @@ class Circle  { // 포함
 public class InheritanceTest {
     public static void main(String[] args) {
         Circle c = new Circle();
-        c.p.x = 1;
-        c.p.y = 2;
-        c.r = 3;
-        System.out.println(c.p.x);
-        System.out.println(c.p.y);
-        System.out.println(c.r);
+        System.out.println(c.toString()); // Circle@4c203ea1
+        System.out.println(c); // Circle@4c203ea1
+
+        Circle c2 = new Circle();
+        System.out.println(c2.toString()); // Circle@27f674d
     }
 }
