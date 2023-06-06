@@ -1,26 +1,27 @@
-class Point { // 2차원
+class Point extends Object {
     int x;
     int y;
 
-    String getLocation() {
-        return "x :" + x + ", y :" + y;
+    Point(int x, int y) {
+        this.x = x;
+        this.y = y;
     }
-}
 
-class Point3D extends Point { // 3차원
-    int z;
-
-    String getLocation() { // 오버라이딩
-        return "x :" + x + ", y :" + y + ", z: " + z;
+    // Object 클래스의 toString()을 오버라이딩
+    public String toString() {
+        return "x :" + x + ", y :" + y;
     }
 }
 
 public class overrideTest {
     public static void main(String[] args) {
-        Point3D p = new Point3D();
-        p.x = 3;
-        p.y = 5;
-        p.z = 7;
-        System.out.println(p.getLocation());
+        Point p = new Point(3, 5);
+//        p.x = 3;
+//        p.y = 5;
+
+        System.out.println(p);
+//        System.out.println(p.toString());
+//        System.out.println(p.x);
+//        System.out.println(p.y);
     }
 }
