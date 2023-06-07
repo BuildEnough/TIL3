@@ -6,11 +6,10 @@ public class superTest {
 }
 
 class Parent {
-    int x = 10; // super.x
+    int x = 10; // super.x와 this.x 둘 다 가능
 }
 
 class Child extends Parent {
-    int x = 20; // this.x
 
     void method() {
         System.out.println(super.x); // 10
