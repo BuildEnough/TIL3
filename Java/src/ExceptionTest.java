@@ -1,7 +1,7 @@
 class ExceptionTest {
     public static void main(String args[]) {
         try {
-            throw new RuntimeException();
+            throw new Exception();
 
         } catch (Exception e) {
 
