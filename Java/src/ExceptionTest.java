@@ -1,5 +1,10 @@
 class ExceptionTest {
     public static void main(String args[]) {
-        throw new RuntimeException(); // RuntimeException을 고의로 발생시킨다
+        try {
+            throw new RuntimeException();
+
+        } catch (Exception e) {
+
+        }
     }
 }
