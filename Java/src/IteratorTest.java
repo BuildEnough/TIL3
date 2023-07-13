@@ -1,9 +1,9 @@
-import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.Iterator;
 
 public class IteratorTest {
     public static void main(String[] args) {
-        ArrayList list = new ArrayList();
+        HashSet list = new HashSet(); // Set은 Collcetion의 자손
         list.add("1");
         list.add("2");
         list.add("3");
@@ -14,13 +14,6 @@ public class IteratorTest {
 
         while(it.hasNext()) {
             Object obj = it.next();
-            System.out.println(obj);
-        }
-
-        it = list.iterator();
-
-        for(int i=0; i < list.size(); i++) {
-            Object obj = list.get(i);
             System.out.println(obj);
         }
     }
