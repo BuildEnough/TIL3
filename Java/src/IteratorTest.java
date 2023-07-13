@@ -1,16 +1,17 @@
-import java.util.HashSet;
+import java.util.Collection;
 import java.util.Iterator;
+import java.util.TreeSet;
 
 public class IteratorTest {
     public static void main(String[] args) {
-        HashSet list = new HashSet(); // Set은 Collcetion의 자손
-        list.add("1");
-        list.add("2");
-        list.add("3");
-        list.add("4");
-        list.add("5");
+        Collection c = new TreeSet(); // Set은 Collcetion의 자손
+        c.add("1");
+        c.add("2");
+        c.add("3");
+        c.add("4");
+        c.add("5");
 
-        Iterator it = list.iterator();
+        Iterator it = c.iterator();
 
         while(it.hasNext()) {
             Object obj = it.next();
