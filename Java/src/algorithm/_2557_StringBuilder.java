@@ -1,8 +1,8 @@
 package algorithm;
 
-public class _2557_4 {
+public class _2557_StringBuilder {
     public static void main(String[] args) {
-        StringBuffer sb = new StringBuffer();
+        StringBuilder sb = new StringBuilder();
         sb.append("Hello World!");
         System.out.println(sb);
     }
