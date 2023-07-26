@@ -8,6 +8,7 @@ public class _1330_BufferedReader_StringTokenizer {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         String str = br.readLine();
+        br.close();
 
         StringTokenizer st = new StringTokenizer(str, " ");
 
