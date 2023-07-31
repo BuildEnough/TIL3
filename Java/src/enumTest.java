@@ -1,43 +1,52 @@
-//                  0,    1,    2,    3
-enum Direction { EAST, SOUTH, WEST, NORTH }
+enum Direction2 {
+    EAST(1, ">"), SOUTH(2,"V"), WEST(3, "<"), NORTH(4,"^");
+
+    private static final Direction2[] DIR_ARR = Direction2.values();
+    private final int value;
+    private final String symbol;
+
+    Direction2(int value, String symbol) { // 생성자 호출, 접근 제어자 private이 생략됨
+        this.value  = value;
+        this.symbol = symbol;
+    }
+
+    public int getValue()     { return value;  }
+    public String getSymbol() { return symbol; }
+
+    public static Direction2 of(int dir) {
+        if (dir < 1 || dir > 4)
+            throw new IllegalArgumentException("Invalid value :" + dir);
+
+        return DIR_ARR[dir - 1];
+    }
+
+    // 방향을 회전시키는 메서드. num의 값만큼 90도씩 시계방향으로 회전한다.
+    public Direction2 rotate(int num) {
+        num = num % 4;
+
+        if(num < 0) num +=4; // num이 음수일 때는 시계반대 방향으로 회전
+
+        return DIR_ARR[(value-1+num) % 4];
+    }
+
+    public String toString() {
+        return name()+getSymbol();
+    }
+} // enum Direction2
 
 class enumTest {
     public static void main(String[] args) {
-        Direction d1 = Direction.EAST; // 열거형타입.상수
-        Direction d2 = Direction.valueOf("WEST"); // 문자열 이용하여 열거형 상수 얻기
-        Direction d3 = Enum.valueOf(Direction.class, "EAST"); // Enum 클래스(모든 열거형 최고 조상) 이용, valueOf 사용
+        for(Direction2 d : Direction2.values())
+            System.out.printf("%s=%d%n", d.name(), d.getValue());
 
-        System.out.println("d1="+d1);
-        System.out.println("d2="+d2);
-        System.out.println("d3="+d3);
-        System.out.println();
+        Direction2 d1 = Direction2.EAST;
+        Direction2 d2 = Direction2.of(1);
 
-        System.out.println("d1==d2 ? "+ (d1==d2));
-        System.out.println("d1==d3 ? "+ (d1==d3));
-        System.out.println("d1.equals(d3) ? "+ d1.equals(d3));
-//		System.out.println("d2 > d3 ? "+ (d1 > d3)); // 에러
-        System.out.println();
-
-        System.out.println("d1.compareTo(d3) ? "+ (d1.compareTo(d3)));
-        System.out.println("d1.compareTo(d2) ? "+ (d1.compareTo(d2)));
-        System.out.println();
-
-        switch(d1) {
-            case EAST: // Direction.EAST라고 쓸 수 없다
-                System.out.println("The direction is EAST."); break;
-            case SOUTH:
-                System.out.println("The direction is SOUTH."); break;
-            case WEST:
-                System.out.println("The direction is WEST."); break;
-            case NORTH:
-                System.out.println("The direction is NORTH."); break;
-            default:
-                System.out.println("Invalid direction."); break;
-        }
-
-        Direction[] dArr = Direction.values();
-
-        for(Direction d : dArr)  // for(Direction d : Direction.values())
-            System.out.printf("%s=%d%n", d.name(), d.ordinal());
+        System.out.printf("d1=%s, %d%n", d1.name(), d1.getValue());
+        System.out.printf("d2=%s, %d%n", d2.name(), d2.getValue());
+        System.out.println(Direction2.EAST.rotate(1));
+        System.out.println(Direction2.EAST.rotate(2));
+        System.out.println(Direction2.EAST.rotate(-1));
+        System.out.println(Direction2.EAST.rotate(-2));
     }
 }
