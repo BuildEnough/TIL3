@@ -1,23 +1,44 @@
-class Parent {
-    void parentMethod() { }
-}
+import java.lang.annotation.*;
 
-class Child extends Parent {
-    @Override
-    @Deprecated
-    void parentMethod() { }
-}
+@Deprecated
+@SuppressWarnings("1111") // 유효하지 않은 애너테이션은 무시된다.
+@TestInfo(testedBy="aaa", testTools= {"JUnit", "JUnit5"}, testDate=@DateTime(yymmdd="160101",hhmmss="235959"))
+class annotationTest {
+    public static void main(String args[]) {
+        // annotationTest의 Class객체를 얻는다.
+        Class<annotationTest> cls = annotationTest.class;
 
-@FunctionalInterface // 함수형 인터페이스는 하나의 추상 메서드만 가능
-interface Testable {
-    void test(); // 추상 메서드
-    // void check(); // 추상 메서드
-}
+        TestInfo anno = cls.getAnnotation(TestInfo.class);
+        System.out.println("anno.testedBy()="+anno.testedBy());
+        System.out.println("anno.testDate().yymmdd()=" +anno.testDate().yymmdd());
+        System.out.println("anno.testDate().hhmmss()=" +anno.testDate().hhmmss());
 
-public class annotationTest {
-    @SuppressWarnings("deprecation")
-    public static void main(String[] args) {
-        Child c = new Child();
-        c.parentMethod(); // deprecated된 메서드 사용
+        for(String str : anno.testTools())
+            System.out.println("testTools="+str);
+
+        System.out.println();
+
+        // annotationTest에 적용된 모든 애너테이션을 가져온다.
+        Annotation[] annoArr = cls.getAnnotations();
+
+        for(Annotation a : annoArr)
+            System.out.println(a);
     }
 }
+
+@Retention(RetentionPolicy.RUNTIME)  // 실행 시에 사용가능하도록 지정
+@interface TestInfo {
+    int       count()	  	default 1;
+    String    testedBy();
+    String[]  testTools() 	default "JUnit";
+    TestType  testType()    default TestType.FIRST;
+    DateTime  testDate();
+}
+
+@Retention(RetentionPolicy.RUNTIME)  // 실행 시에 사용가능하도록 지정
+@interface DateTime {
+    String yymmdd();
+    String hhmmss();
+}
+
+enum TestType { FIRST, FINAL }
