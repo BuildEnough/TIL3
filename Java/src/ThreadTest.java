@@ -1,22 +1,32 @@
-import javax.swing.JOptionPane;
-
 class ThreadTest {
-    public static void main(String[] args) throws Exception  {
+    public static void main(String args[]) {
         ThreadTest_1 th1 = new ThreadTest_1();
-        th1.start();
+        ThreadTest_2 th2 = new ThreadTest_2();
 
-        String input = JOptionPane.showInputDialog("아무 값이나 입력하세요.");
-        System.out.println("입력하신 값은 " + input + "입니다.");
+        // th1.setPriority(5); // 생략됨, 기본값: 5
+        th2.setPriority(7);
+
+        System.out.println("Priority of th1(-) : " + th1.getPriority());
+        System.out.println("Priority of th2(|) : " + th2.getPriority());
+        th1.start();
+        th2.start();
     }
 }
 
 class ThreadTest_1 extends Thread {
     public void run() {
-        for(int i=10; i > 0; i--) {
-            System.out.println(i);
-            try {
-                sleep(1000);
-            } catch(Exception e ) {}
+        for(int i=0; i < 300; i++) {
+            System.out.print("-");
+            for(int x=0; x < 10000000; x++); // 시간지연용 for문
         }
-    } // run()
+    }
+}
+
+class ThreadTest_2 extends Thread {
+    public void run() {
+        for(int i=0; i < 300; i++) {
+            System.out.print("|");
+            for(int x=0; x < 10000000; x++); // 시간지연용 for문
+        }
+    }
 }
