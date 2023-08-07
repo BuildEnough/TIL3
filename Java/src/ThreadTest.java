@@ -1,62 +1,34 @@
 class ThreadTest {
+    static long startTime = 0;
+
     public static void main(String args[]) {
-        MyThread th1 = new MyThread("*");
-        MyThread th2 = new MyThread("**");
-        MyThread th3 = new MyThread("***");
+        ThreadTest_1 th1 = new ThreadTest_1();
+        ThreadTest_2 th2 = new ThreadTest_2();
         th1.start();
         th2.start();
-        th3.start();
+        startTime = System.currentTimeMillis(); // 시작시간
 
         try {
-            Thread.sleep(2000);
-            th1.suspend();	// 쓰레드 th1을 잠시 중단시킨다.
-            Thread.sleep(2000);
-            th2.suspend();
-            Thread.sleep(3000);
-            th1.resume();	// 쓰레드 th1이 다시 동작하도록 한다.
-            Thread.sleep(3000);
-            th1.stop();		// 쓰레드 th1을 강제종료시킨다.
-            th2.stop();
-            Thread.sleep(2000);
-            th3.stop();
-        } catch (InterruptedException e) {}
-    } // main
+            th1.join();	// main쓰레드가 th1의 작업이 끝날 때까지 기다린다.
+            th2.join();	// main쓰레드가 th2의 작업이 끝날 때까지 기다린다.
+        } catch(InterruptedException e) {}
+
+        System.out.print("소요시간:" + (System.currentTimeMillis() - ThreadTest.startTime));
+    }
 }
 
-class MyThread implements Runnable {
-    volatile boolean suspended = false; // volatile: 쉽게 바뀌는 변수, 복사본 사용하지 말고 직접 RAM의 원본에서 값을 가져다 사용
-    volatile boolean stopped = false;
-
-    Thread th;
-
-    MyThread(String name) {
-        th = new Thread(this, name); // Thread(Runnable r, String name)
-    }
-
-    void start() {
-        th.start();
-    }
-
-    void stop() {
-        stopped = true;
-    }
-
-    void suspend() {
-        suspended = true;
-    }
-
-    void resume() {
-        suspended = false;
-    }
-
+class ThreadTest_1 extends Thread {
     public void run() {
-        while(!stopped) {
-            if (!suspended) {
-                System.out.println(Thread.currentThread().getName());
-                try {
-                    Thread.sleep(1000); // 1초
-                } catch(InterruptedException e) {}
-            }
+        for(int i=0; i < 300; i++) {
+            System.out.print(new String("-"));
+        }
+    }
+}
+
+class ThreadTest_2 extends Thread {
+    public void run() {
+        for(int i=0; i < 300; i++) {
+            System.out.print(new String("|"));
         }
     }
 }
