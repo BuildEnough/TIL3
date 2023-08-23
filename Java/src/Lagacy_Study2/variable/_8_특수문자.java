@@ -5,7 +5,7 @@ public class _8_특수문자 {
         System.out.println('\'');
         System.out.println("123\b");
         System.out.println('\n');
-        System.out.println("\"Hello\"");
+        System.out.println("\"Chapter2.Hello\"");
         System.out.println("\\");
     }
 }

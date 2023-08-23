@@ -447,11 +447,11 @@
   <handlers xmi:id="_ACXzQuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.e4.ui.workbench.renderers.swt.cocoa.CloseDialogHandler" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.cocoa.CloseDialogHandler" command="_ACXzQey7Ee2HNPpjDkCvtQ"/>
   <bindingTables xmi:id="___8KWey6Ee2HNPpjDkCvtQ" contributorURI="platform:/plugin/org.eclipse.platform" bindingContext="___8KWuy6Ee2HNPpjDkCvtQ"/>
   <bindingTables xmi:id="_ABLgcOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.contexts.window" bindingContext="___8KW-y6Ee2HNPpjDkCvtQ">
-    <bindings xmi:id="_ABN8sOy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+Q B" command="_AAp8Gey7Ee2HNPpjDkCvtQ">
+    <bindings xmi:id="_ABN8sOy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+Q LagacyStudy3.B" command="_AAp8Gey7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
       <parameters xmi:id="_ABPx4Oy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.debug.ui.BreakpointView"/>
     </bindings>
-    <bindings xmi:id="_ABRAAOy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+Q C" command="_AAp8Gey7Ee2HNPpjDkCvtQ">
+    <bindings xmi:id="_ABRAAOy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+Q LagacyStudy3.C" command="_AAp8Gey7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
       <parameters xmi:id="_ABRAAey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.ui.console.ConsoleView"/>
     </bindings>
@@ -510,7 +510,7 @@
       <tags>platform:cocoa</tags>
       <parameters xmi:id="_ABS1Mey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.team.ui.GenericHistoryView"/>
     </bindings>
-    <bindings xmi:id="_ABS1Nuy7Ee2HNPpjDkCvtQ" keySequence="ALT+CTRL+B" command="_AArxMuy7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABS1Nuy7Ee2HNPpjDkCvtQ" keySequence="ALT+CTRL+LagacyStudy3.B" command="_AArxMuy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABS1Ouy7Ee2HNPpjDkCvtQ" keySequence="ALT+CTRL+P" command="_AApVEuy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABTcQuy7Ee2HNPpjDkCvtQ" keySequence="ALT+CTRL+H" command="_AAmRqOy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABTcQ-y7Ee2HNPpjDkCvtQ" keySequence="CTRL+Q" command="_AAwCoOy7Ee2HNPpjDkCvtQ"/>
@@ -593,14 +593,14 @@
       <tags>platform:cocoa</tags>
       <parameters xmi:id="_ABcmV-y7Ee2HNPpjDkCvtQ" elementId="Splitter.isHorizontal" name="Splitter.isHorizontal" value="false"/>
     </bindings>
-    <bindings xmi:id="_ABdNQOy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+X A" command="_AAj1sOy7Ee2HNPpjDkCvtQ">
+    <bindings xmi:id="_ABdNQOy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+X LagacyStudy3.A" command="_AAj1sOy7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
     <bindings xmi:id="_ABdNQ-y7Ee2HNPpjDkCvtQ" keySequence="DEL" command="_AAp8Aey7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABdNSuy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+R" command="_AAyfeey7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABdNTuy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+S" command="_AApU8uy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABdNT-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+3" command="_AAu0xOy7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABdNUOy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+C" command="_AAvbtOy7Ee2HNPpjDkCvtQ">
+    <bindings xmi:id="_ABdNUOy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+LagacyStudy3.C" command="_AAvbtOy7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
     <bindings xmi:id="_ABdNUey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+T" command="_AAvb4Oy7Ee2HNPpjDkCvtQ"/>
@@ -616,7 +616,7 @@
     <bindings xmi:id="_ABdNZOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+N" command="_AAj1huy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABdNZey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+." command="_AAyfG-y7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABdNaey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+O" command="_AAye8Oy7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABdNbey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+B" command="_AAp8Cey7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABdNbey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+LagacyStudy3.B" command="_AAp8Cey7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABdNb-y7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+R" command="_AAyfPOy7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
@@ -634,7 +634,7 @@
     <bindings xmi:id="_ABd0W-y7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+W" command="_AAyfFey7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
-    <bindings xmi:id="_ABd0XOy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+I" command="_AAnfzOy7Ee2HNPpjDkCvtQ">
+    <bindings xmi:id="_ABd0XOy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+LagacyStudy3.I" command="_AAnfzOy7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
     <bindings xmi:id="_ABd0Xey7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+J" command="_AAvbwuy7Ee2HNPpjDkCvtQ">
@@ -653,7 +653,7 @@
     <bindings xmi:id="_ABd0auy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+S" command="_AAx4Bey7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABd0bey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+U" command="_AAyfLuy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABd0cey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+W" command="_AAyfSOy7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABd0dOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+I" command="_AAu02ey7Ee2HNPpjDkCvtQ">
+    <bindings xmi:id="_ABd0dOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+LagacyStudy3.I" command="_AAu02ey7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
     <bindings xmi:id="_ABd0euy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+-" command="_AAvbn-y7Ee2HNPpjDkCvtQ">
@@ -664,7 +664,7 @@
     <bindings xmi:id="_ABebYuy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+." command="_AAj1suy7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
-    <bindings xmi:id="_ABebauy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+B" command="_AAlqkuy7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABebauy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+LagacyStudy3.B" command="_AAlqkuy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABebb-y7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+3" command="_AAnfy-y7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
@@ -675,7 +675,7 @@
     <bindings xmi:id="_ABebd-y7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+E E" command="_AAnf0ey7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABebeOy7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+E G" command="_AAvb7uy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABiFwOy7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+E J" command="_AAj1q-y7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABj68Oy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+CTRL+D A" command="_AAvbzuy7Ee2HNPpjDkCvtQ">
+    <bindings xmi:id="_ABj68Oy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+CTRL+D LagacyStudy3.A" command="_AAvbzuy7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
     <bindings xmi:id="_ABj68ey7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+E S" command="_AAye8-y7Ee2HNPpjDkCvtQ"/>
@@ -766,7 +766,7 @@
     </bindings>
     <bindings xmi:id="_ABcmU-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+X" command="_AAj1duy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABcmVOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+Y" command="_AAx3_-y7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABdNSey7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+A" command="_AAj1muy7Ee2HNPpjDkCvtQ">
+    <bindings xmi:id="_ABdNSey7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+LagacyStudy3.A" command="_AAj1muy7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
     <bindings xmi:id="_ABdNXOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+J" command="_AAu0gey7Ee2HNPpjDkCvtQ"/>
@@ -812,13 +812,13 @@
     </bindings>
     <bindings xmi:id="_ABdNQey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+\" command="_AApU8-y7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABdNROy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+P" command="_AArxXOy7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABdNTey7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+B" command="_AAyfWey7Ee2HNPpjDkCvtQ">
+    <bindings xmi:id="_ABdNTey7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+LagacyStudy3.B" command="_AAyfWey7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
     <bindings xmi:id="_ABdNVey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+7" command="_AAj1iOy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABdNYOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+M" command="_AAu0xuy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABdNZuy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+/" command="_AAj1iOy7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABdNcOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+C" command="_AAj1iOy7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABdNcOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+LagacyStudy3.C" command="_AAj1iOy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABd0VOy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+U" command="_AAu0vuy7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
@@ -827,7 +827,7 @@
       <tags>platform:cocoa</tags>
     </bindings>
     <bindings xmi:id="_ABd0bOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+T" command="_AAj1ley7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABd0cuy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+I" command="_AAvcBOy7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABd0cuy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+LagacyStudy3.I" command="_AAvcBOy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABebY-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+O" command="_AAye9uy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABhesOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+2 F" command="_AAye--y7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABlwIey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+2 R" command="_AAu03Oy7Ee2HNPpjDkCvtQ"/>
@@ -856,18 +856,18 @@
       <tags>platform:cocoa</tags>
     </bindings>
     <bindings xmi:id="_ABdNSOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+1" command="_AAu0tuy7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABdNW-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+I" command="_AAu0h-y7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABdNW-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+LagacyStudy3.I" command="_AAu0h-y7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABdNX-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+L" command="_AAx3_ey7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABd0Uey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+D" command="_AAye9-y7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABd0b-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+V" command="_AAj1rOy7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABebaey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+A" command="_AAye8uy7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABebbuy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+C" command="_AAj1aOy7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABebaey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+LagacyStudy3.A" command="_AAye8uy7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABebbuy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+LagacyStudy3.C" command="_AAj1aOy7Ee2HNPpjDkCvtQ"/>
   </bindingTables>
   <bindingTables xmi:id="_ABTcROy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.tasks.ui.views.tasks" bindingContext="_AA3-dey7Ee2HNPpjDkCvtQ">
-    <bindings xmi:id="_ABTcRey7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+C" command="_AAyfcOy7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABTcRey7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+LagacyStudy3.C" command="_AAyfcOy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABUDUuy7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+R" command="_AAx4Fuy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABUDV-y7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+U" command="_AAu0iey7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABUDWuy7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+I" command="_AAx4BOy7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABUDWuy7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+LagacyStudy3.I" command="_AAx4BOy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABUDXey7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+N" command="_AApVGOy7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
@@ -884,11 +884,11 @@
     <bindings xmi:id="_ABlwIOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+CR" command="_AAvbtuy7Ee2HNPpjDkCvtQ"/>
   </bindingTables>
   <bindingTables xmi:id="_ABTcRuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.tasks.ui.editors.task" bindingContext="_AA3-duy7Ee2HNPpjDkCvtQ">
-    <bindings xmi:id="_ABTcR-y7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+C" command="_AAyfcOy7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABTcR-y7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+LagacyStudy3.C" command="_AAyfcOy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABUDU-y7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+R" command="_AAx4Fuy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABUDVOy7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+S" command="_AAvb7Oy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABUDWOy7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+U" command="_AAu0iey7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABUDW-y7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+I" command="_AAx4BOy7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABUDW-y7Ee2HNPpjDkCvtQ" keySequence="ALT+SHIFT+LagacyStudy3.I" command="_AAx4BOy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABdNYey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+M" command="_AAj1kOy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABebZOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+O" command="_AAyfCuy7Ee2HNPpjDkCvtQ"/>
   </bindingTables>
@@ -921,11 +921,11 @@
     <bindings xmi:id="_ABdNaOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+/" command="_AAj1guy7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
-    <bindings xmi:id="_ABdNbOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+A" command="_AAyfdey7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABdNcuy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+C" command="_AAx4Duy7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABdNbOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+LagacyStudy3.A" command="_AAyfdey7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABdNcuy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+LagacyStudy3.C" command="_AAx4Duy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABd0V-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+F" command="_AAyfOOy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABd0Yuy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+>" command="_AAvbz-y7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABd0c-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+I" command="_AAvcAuy7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABd0c-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+LagacyStudy3.I" command="_AAvcAuy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABebZ-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+O" command="_AAlqkey7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABebaOy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+/" command="_AAj1guy7Ee2HNPpjDkCvtQ"/>
   </bindingTables>
@@ -960,7 +960,7 @@
   <bindingTables xmi:id="_ABb_Iey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.RepositoriesView" bindingContext="_AA3-i-y7Ee2HNPpjDkCvtQ">
     <bindings xmi:id="_ABb_Iuy7Ee2HNPpjDkCvtQ" keySequence="F2" command="_AAp8BOy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABd0buy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+V" command="_AAj1dOy7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABeba-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+C" command="_AAu00uy7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABeba-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+LagacyStudy3.C" command="_AAu00uy7Ee2HNPpjDkCvtQ"/>
   </bindingTables>
   <bindingTables xmi:id="_ABb_KOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.genericeditor.genericEditorContext" bindingContext="_AA3Xaey7Ee2HNPpjDkCvtQ">
     <bindings xmi:id="_ABb_Key7Ee2HNPpjDkCvtQ" keySequence="F3" command="_AAwCoey7Ee2HNPpjDkCvtQ"/>
@@ -973,14 +973,14 @@
     <bindings xmi:id="_ABdNR-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+1" command="_AAyfMey7Ee2HNPpjDkCvtQ"/>
   </bindingTables>
   <bindingTables xmi:id="_ABdNS-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.breadcrumbEditorScope" bindingContext="_AA3-cuy7Ee2HNPpjDkCvtQ">
-    <bindings xmi:id="_ABdNTOy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+B" command="_AAyfWey7Ee2HNPpjDkCvtQ">
+    <bindings xmi:id="_ABdNTOy7Ee2HNPpjDkCvtQ" keySequence="ALT+COMMAND+LagacyStudy3.B" command="_AAyfWey7Ee2HNPpjDkCvtQ">
       <tags>platform:cocoa</tags>
     </bindings>
   </bindingTables>
   <bindingTables xmi:id="_ABdNVuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.propertiesEditorScope" bindingContext="_AA3-iuy7Ee2HNPpjDkCvtQ">
     <bindings xmi:id="_ABdNV-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+7" command="_AAj1iOy7Ee2HNPpjDkCvtQ"/>
     <bindings xmi:id="_ABdNZ-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+/" command="_AAj1iOy7Ee2HNPpjDkCvtQ"/>
-    <bindings xmi:id="_ABdNcey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+C" command="_AAj1iOy7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABdNcey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+LagacyStudy3.C" command="_AAj1iOy7Ee2HNPpjDkCvtQ"/>
   </bindingTables>
   <bindingTables xmi:id="_ABdNauy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.wikitext.tasks.ui.markupSourceContext" bindingContext="_AA3-hey7Ee2HNPpjDkCvtQ">
     <bindings xmi:id="_ABdNa-y7Ee2HNPpjDkCvtQ" keySequence="COMMAND+SHIFT+O" command="_AAj1o-y7Ee2HNPpjDkCvtQ"/>
@@ -1001,7 +1001,7 @@
     <bindings xmi:id="_ABebZuy7Ee2HNPpjDkCvtQ" keySequence="COMMAND+O" command="_AAj1o-y7Ee2HNPpjDkCvtQ"/>
   </bindingTables>
   <bindingTables xmi:id="_ABebbOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.ReflogView" bindingContext="_AA3-cey7Ee2HNPpjDkCvtQ">
-    <bindings xmi:id="_ABebbey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+C" command="_AApVF-y7Ee2HNPpjDkCvtQ"/>
+    <bindings xmi:id="_ABebbey7Ee2HNPpjDkCvtQ" keySequence="COMMAND+LagacyStudy3.C" command="_AApVF-y7Ee2HNPpjDkCvtQ"/>
   </bindingTables>
   <bindingTables xmi:id="_ABlJEey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.debug.ui.BreakpointView" bindingContext="_AA3XYey7Ee2HNPpjDkCvtQ">
     <bindings xmi:id="_ABlJEuy7Ee2HNPpjDkCvtQ" keySequence="ALT+CR" command="_AAjOV-y7Ee2HNPpjDkCvtQ"/>
@@ -1047,7 +1047,7 @@
   <bindingTables xmi:id="_AoJZ0-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.actionSet.openFiles" bindingContext="_AoJZ0uy7Ee2HNPpjDkCvtQ"/>
   <bindingTables xmi:id="_AoKA4ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.text.actionSet.presentation" bindingContext="_AoKA4Oy7Ee2HNPpjDkCvtQ"/>
   <rootContext xmi:id="___8KWuy6Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.contexts.dialogAndWindow" contributorURI="platform:/plugin/org.eclipse.platform" name="In Dialogs and Windows" description="Either a dialog or a window is open">
-    <children xmi:id="___8KW-y6Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.contexts.window" contributorURI="platform:/plugin/org.eclipse.platform" name="In Windows" description="A window is open">
+    <children xmi:id="___8KW-y6Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.contexts.window" contributorURI="platform:/plugin/org.eclipse.platform" name="In Windows" description="LagacyStudy3.A window is open">
       <children xmi:id="___8KXOy6Ee2HNPpjDkCvtQ" elementId="org.eclipse.e4.ui.contexts.views" contributorURI="platform:/plugin/org.eclipse.platform" name="%bindingcontext.name.bindingView"/>
       <children xmi:id="_AA3XYey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.debug.ui.BreakpointView" name="In Breakpoints View" description="The breakpoints view context"/>
       <children xmi:id="_AA3XYuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.textEditorScope" name="Editing Text" description="Editing Text Context">
@@ -1076,7 +1076,7 @@
         <children xmi:id="_AA3-hOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ant.ui.AntEditorScope" name="Editing Ant Buildfiles" description="Editing Ant Buildfiles Context"/>
         <children xmi:id="_AA3-iuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.propertiesEditorScope" name="Editing Properties Files" description="Editing Properties Files Context"/>
       </children>
-      <children xmi:id="_AA3XZOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.debug.ui.console" name="In I/O Console" description="In I/O console"/>
+      <children xmi:id="_AA3XZOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.debug.ui.console" name="In LagacyStudy3.I/O Console" description="In LagacyStudy3.I/O console"/>
       <children xmi:id="_AA3XZey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.compare.compareEditorScope" name="Comparing in an Editor" description="Comparing in an Editor"/>
       <children xmi:id="_AA3XZ-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.console.ConsoleView" name="In Console View" description="In Console View"/>
       <children xmi:id="_AA3XaOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.debug.ui.memoryview" name="In Memory View" description="In memory view"/>
@@ -1089,7 +1089,7 @@
       <children xmi:id="_AA3-gey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.buildship.ui.contexts.taskview" name="In Gradle Tasks View" description="This context is activated when the Gradle Tasks view is in focus"/>
       <children xmi:id="_AA3-i-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.RepositoriesView" name="In Git Repositories View"/>
     </children>
-    <children xmi:id="___8KXey6Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.contexts.dialog" contributorURI="platform:/plugin/org.eclipse.platform" name="In Dialogs" description="A dialog is open"/>
+    <children xmi:id="___8KXey6Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.contexts.dialog" contributorURI="platform:/plugin/org.eclipse.platform" name="In Dialogs" description="LagacyStudy3.A dialog is open"/>
   </rootContext>
   <rootContext xmi:id="_AA3XYOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.wst.xsd.ui.editor.designView" name="XSD Editor Design View" description="XSD Editor Design View"/>
   <rootContext xmi:id="_AA3XY-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.contexts.actionSet" name="Action Set" description="Parent context for action sets"/>
@@ -1167,7 +1167,7 @@
     <tags>View</tags>
     <tags>categoryTag:Debug</tags>
   </descriptors>
-  <descriptors xmi:id="_AbAVsOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.debug.ui.VariableView" label="Variables" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/variable_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+  <descriptors xmi:id="_AbAVsOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.debug.ui.VariableView" label="LagacyStudy3.Variables" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/variable_view.png" tooltip="" allowMultiple="true" category="Debug" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
     <persistedState key="originalCompatibilityViewClass" value="org.eclipse.debug.internal.ui.views.variables.VariablesView"/>
     <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.debug.ui"/>
     <tags>View</tags>
@@ -1527,9 +1527,9 @@
   <commands xmi:id="_AAjOVuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.RepositoriesViewAddRepository" commandName="Add a Git Repository" category="_AAgyKuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAjOV-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.debug.ui.breakpoint.properties" commandName="Java Breakpoint Properties" description="View and edit the properties for a given Java breakpoint" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAjOWOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.correction.addThrowsDecl" commandName="Quick Fix - Add throws declaration" description="Invokes quick assist and selects 'Add throws declaration'" category="_AAhZI-y7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAjOWey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.junitPluginShortcut.coverage" commandName="Coverage JUnit Plug-in Test" description="Coverage JUnit Plug-in Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAjOWey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.junitPluginShortcut.coverage" commandName="Coverage JUnit Plug-in LagacyStudy3.Test" description="Coverage JUnit Plug-in LagacyStudy3.Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAjOWuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.navigate.open.type.in.hierarchy" commandName="Open Type in Hierarchy" description="Open a type in the type hierarchy view" category="_AAgyG-y7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAjOW-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.tasks.ui.command.task.clearActiveTime" commandName="Clear Active Time" category="_AAgyGuy7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAjOW-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.tasks.ui.command.task.clearActiveTime" commandName="Clear Active LagacyStudy3.Time" category="_AAgyGuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAjOXOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.ide.copyBuildIdCommand" commandName="Copy Build Id Information To Clipboard" description="Copies the build identification information to the clipboard." category="_AAgyEey7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAjOXey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.buildship.ui.commands.refreshproject" commandName="Refresh Gradle Project" description="Synchronizes the Gradle builds of the selected projects with the workspace" category="_AAgyFOy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAjOXuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.text.select.textEnd" commandName="Select Text End" description="Select to the end of the text" category="_AAgyGOy7Ee2HNPpjDkCvtQ"/>
@@ -1557,7 +1557,7 @@
   <commands xmi:id="_AAj1bey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.navigate.addToWorkingSet" commandName="Add to Working Set" description="Adds the selected object to a working set." category="_AAgyEey7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1buy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.debug.ui.commands.RunToLine" commandName="Run to Line" description="Resume and break when execution reaches the current line" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1b-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.team.Revert" commandName="Revert Commit" category="_AAgyKuy7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAj1cOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.junit.junitShortcut.debug" commandName="Debug JUnit Test" description="Debug JUnit Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAj1cOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.junit.junitShortcut.debug" commandName="Debug JUnit LagacyStudy3.Test" description="Debug JUnit LagacyStudy3.Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1cey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.wikitext.ui.editor.showCheatSheetCommand" commandName="Show Markup Cheat Sheet" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1cuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.team.ui.TeamSynchronizingPerspective" commandName="Team Synchronizing" description="Open the Team Synchronizing Perspective" category="_AAhZIOy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1c-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ant.ui.open.declaration.command" commandName="Open Declaration" description="Opens the Ant editor on the referenced element" category="_AAhZI-y7Ee2HNPpjDkCvtQ"/>
@@ -1583,7 +1583,7 @@
   <commands xmi:id="_AAj1h-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.history.OpenInCommitViewerCommand" commandName="Open in Commit Viewer" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1iOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.toggle.comment" commandName="Toggle Comment" description="Toggle comment the selected lines" category="_AAhZI-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1iey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.correction.addImport" commandName="Quick Fix - Add import" description="Invokes quick assist and selects 'Add import'" category="_AAhZI-y7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAj1iuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.m2e.actions.LifeCycleTest.run" commandName="Run Maven Test" description="Run Maven Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAj1iuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.m2e.actions.LifeCycleTest.run" commandName="Run Maven LagacyStudy3.Test" description="Run Maven LagacyStudy3.Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1i-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.window.savePerspective" commandName="Save Perspective As" description="Save the current perspective" category="_AAgyIuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1jOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.move" commandName="Move..." description="Move the selected item" category="_AAgyH-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1jey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.refactor.migrate.jar" commandName="Migrate JAR File" description="Migrate a JAR File to a new version" category="_AAgyI-y7Ee2HNPpjDkCvtQ"/>
@@ -1598,7 +1598,7 @@
   <commands xmi:id="_AAj1luy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.oomph.setup.editor.importProjects" commandName="Import Projects" category="_AAgyF-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1l-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.hideUnusedElements" commandName="Hide Unused Elements" category="_AAgyHuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1mOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.generate.constructor.using.fields" commandName="Generate Constructor using Fields" description="Choose fields to initialize and constructor from superclass to call " category="_AAhZI-y7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAj1mey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.builds.ui.command.ShowTestResults" commandName="Show Test Results" category="_AAgyFey7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAj1mey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.builds.ui.command.ShowTestResults" commandName="Show LagacyStudy3.Test Results" category="_AAgyFey7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1muy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.text.toggleBlockSelectionMode" commandName="Toggle Block Selection" description="Toggle block / column selection in the current text editor" category="_AAgyEey7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1m-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.wst.sse.ui.goto.matching.bracket" commandName="Matching Character" description="Go to Matching Character" category="_AAgyG-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAj1nOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.refactor.quickMenu" commandName="Show Refactor Quick Menu" description="Shows the refactor quick menu" category="_AAgyI-y7Ee2HNPpjDkCvtQ"/>
@@ -1633,7 +1633,7 @@
   <commands xmi:id="_AAlqkey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.wst.sse.ui.quick_outline" commandName="Quick Outline" description="Show the quick outline for the editor input" category="_AAgyG-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAlqkuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.project.buildAll" commandName="Build All" description="Build all projects" category="_AAgyJey7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAlqk-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.history.OpenInTextEditorCommand" commandName="Open in Text Editor" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAlqlOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.dumpExecutionData" commandName="Dump Execution Data" category="_AAgyHuy7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAlqlOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.dumpExecutionData" commandName="Dump Execution LagacyStudy3.Data" category="_AAgyHuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAlqley7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.RepositoriesViewRemove" commandName="Remove Repository" category="_AAgyKuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAlqluy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ant.ui.openExternalDoc" commandName="Open External Documentation" description="Open the External documentation for the current task in the Ant editor" category="_AAhZI-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAlql-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.text.cut.line.to.beginning" commandName="Cut to Beginning of Line" description="Cut to the beginning of a line of text" category="_AAgyGOy7Ee2HNPpjDkCvtQ"/>
@@ -1678,7 +1678,7 @@
   <commands xmi:id="_AAnfxey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.debug.ui.commands.closeRendering" commandName="Close Rendering" description="Close the selected rendering." category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAnfxuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.RepositoriesViewOpenInEditor" commandName="Open in Editor" category="_AAgyKuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAnfx-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.tasks.ui.command.showToolTip" commandName="Show Tooltip Description" category="_AAgyGuy7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAnfyOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.junitShortcut.coverage" commandName="Coverage JUnit Test" description="Coverage JUnit Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAnfyOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.junitShortcut.coverage" commandName="Coverage JUnit LagacyStudy3.Test" description="Coverage JUnit LagacyStudy3.Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAnfyey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.context.ui.commands.task.copyContext" commandName="Copy Context" category="_AAgyGey7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAnfyuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.window.showViewMenu" commandName="Show View Menu" description="Show the view menu" category="_AAgyIuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAnfy-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.team.Commit" commandName="Commit..." category="_AAgyKuy7Ee2HNPpjDkCvtQ"/>
@@ -1714,7 +1714,7 @@
   <commands xmi:id="_AAnf6ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.text.delete.line" commandName="Delete Line" description="Delete a line of text" category="_AAgyGOy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAnf6uy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.debug.ui.DebugPerspective" commandName="Debug" description="Open the debug perspective" category="_AAhZIOy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAnf6-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.tips.ide.command.open" commandName="Tip of the Day" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAoG0Oy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.specific_content_assist.command" commandName="Content Assist" description="A parameterizable command that invokes content assist with a single completion proposal category" category="_AAgyEey7Ee2HNPpjDkCvtQ">
+  <commands xmi:id="_AAoG0Oy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.specific_content_assist.command" commandName="Content Assist" description="LagacyStudy3.A parameterizable command that invokes content assist with a single completion proposal category" category="_AAgyEey7Ee2HNPpjDkCvtQ">
     <parameters xmi:id="_AAot4Oy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.specific_content_assist.category_id" name="type" optional="false"/>
   </commands>
   <commands xmi:id="_AApU8Oy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.search.references.in.hierarchy" commandName="References in Hierarchy" description="Search for references of the selected element in its hierarchy" category="_AAgyJuy7Ee2HNPpjDkCvtQ"/>
@@ -1726,7 +1726,7 @@
   <commands xmi:id="_AApU9uy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.junit.gotoTest" commandName="Referring Tests" description="Referring Tests" category="_AAgyJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AApU9-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.folding.collapseMembers" commandName="Collapse Members" description="Collapse all members" category="_AAgyGOy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AApU-Oy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.find.broken.nls.keys" commandName="Find Broken Externalized Strings" description="Finds undefined, duplicate and unused externalized string keys in property files" category="_AAhZI-y7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AApU-ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.openSessionExecutionData" commandName="Open Execution Data" category="_AAgyHuy7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AApU-ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.openSessionExecutionData" commandName="Open Execution LagacyStudy3.Data" category="_AAgyHuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AApU-uy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.commands.showElementInPackageView" commandName="Show Java Element in Package Explorer" description="Select Java element in the Package Explorer view" category="_AAgyG-y7Ee2HNPpjDkCvtQ">
     <parameters xmi:id="_AApU--y7Ee2HNPpjDkCvtQ" elementId="elementRef" name="Java element reference" typeId="org.eclipse.jdt.ui.commands.javaElementReference" optional="false"/>
   </commands>
@@ -1747,7 +1747,7 @@
   <commands xmi:id="_AApVCuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.command.shareProject" commandName="Share with Git" description="Share the project using Git" category="_AAhZJuy7Ee2HNPpjDkCvtQ">
     <parameters xmi:id="_AApVC-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.command.projectNameParameter" name="Project" optional="false"/>
   </commands>
-  <commands xmi:id="_AApVDOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.convert.anonymous.to.nested" commandName="Convert Anonymous Class to Nested" description="Convert an anonymous class to a nested class" category="_AAgyI-y7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AApVDOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.convert.anonymous.to.nested" commandName="Convert LagacyStudy3.Anonymous Class to Nested" description="Convert an anonymous class to a nested class" category="_AAgyI-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AApVDey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.correction.changeToStatic" commandName="Quick Fix - Change to static access" description="Invokes quick assist and selects 'Change to static access'" category="_AAhZI-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AApVDuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.window.fullscreenmode" commandName="Toggle Full Screen" description="Toggles the window between full screen and normal" category="_AAgyIuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AApVD-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.debug.ui.commands.newRendering" commandName="New Rendering" description="Add a new rendering." category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
@@ -1882,7 +1882,7 @@
   <commands xmi:id="_AAu0luy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.FetchGerritChange" commandName="Fetch From Gerrit" category="_AAgyKuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAu0l-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.correction.encapsulateField.assist" commandName="Quick Assist - Create getter/setter for field" description="Invokes quick assist and selects 'Create getter/setter for field'" category="_AAhZI-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAu0mOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.oomph.setup.editor.openEditorDropdown" commandName="Open Setup Editor" category="_AAgyF-y7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAu0mey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.junitRAPShortcut.coverage" commandName="Coverage RAP JUnit Test" description="Coverage RAP JUnit Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAu0mey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.junitRAPShortcut.coverage" commandName="Coverage RAP JUnit LagacyStudy3.Test" description="Coverage RAP JUnit LagacyStudy3.Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAu0muy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.toggleShowKeys" commandName="Toggle Whether to Show Key Bindings" description="Shows key binding when command is invoked" category="_AAgyIuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAu0m-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.help.quickStartAction" commandName="Welcome" description="Show help for beginning users" category="_AAgyJOy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAu0nOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.tasks.ui.command.SynchronizeAll" commandName="Synchronize Changed" category="_AAgyGuy7Ee2HNPpjDkCvtQ"/>
@@ -1945,7 +1945,7 @@
   <commands xmi:id="_AAu00-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ltk.ui.refactoring.commands.renameResource" commandName="Rename Resource" description="Rename the selected resource and notify LTK participants." category="_AAhZIey7Ee2HNPpjDkCvtQ">
     <parameters xmi:id="_AAu01Oy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ltk.ui.refactoring.commands.renameResource.newName.parameter.key" name="Selected resource's new name."/>
   </commands>
-  <commands xmi:id="_AAu01ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.builds.ui.command.NewTaskFromTest" commandName="New Task From Test" category="_AAgyFey7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAu01ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.builds.ui.command.NewTaskFromTest" commandName="New Task From LagacyStudy3.Test" category="_AAgyFey7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAu01uy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.oomph.setup.editor.perform.startup" commandName="Perform Setup Tasks (Startup)" category="_AAgyF-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAu01-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.team.Rebase" commandName="Rebase on" category="_AAgyKuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAu02Oy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.tasks.ui.command.previousTask" commandName="Previous Task Command" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
@@ -2060,26 +2060,26 @@
   <commands xmi:id="_AAvb8uy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.epp.package.common.contribute" commandName="Contribute" description="Contribute to the development and success of the Eclipse IDE!" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvb8-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.text.select.columnPrevious" commandName="Select Previous Column" description="Select the previous column" category="_AAgyGOy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvb9Oy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly" commandName="Show Selected Element Only" description="Show Selected Element Only" category="_AAgyIuy7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAvb9ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.junit.junitShortcut.rerunFailedFirst" commandName="Rerun JUnit Test - Failures First" description="Rerun JUnit Test - Failures First" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAvb9ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.junit.junitShortcut.rerunFailedFirst" commandName="Rerun JUnit LagacyStudy3.Test - Failures First" description="Rerun JUnit LagacyStudy3.Test - Failures First" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvb9uy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.correction.extractLocalNotReplaceOccurrences.assist" commandName="Quick Assist - Extract local Lagacy_Study2.variable" description="Invokes quick assist and selects 'Extract local Lagacy_Study2.variable'" category="_AAhZI-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvb9-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.file.export" commandName="Export" description="Export" category="_AAgyH-y7Ee2HNPpjDkCvtQ">
     <parameters xmi:id="_AAvb-Oy7Ee2HNPpjDkCvtQ" elementId="exportWizardId" name="Export Wizard"/>
   </commands>
-  <commands xmi:id="_AAvb-ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.wst.xsd.ui.refactor.makeTypeGlobal" commandName="Make &amp;Anonymous Type Global" description="Promotes anonymous type to global level and replaces its references" category="_AAgyEey7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAvb-ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.wst.xsd.ui.refactor.makeTypeGlobal" commandName="Make &amp;LagacyStudy3.Anonymous Type Global" description="Promotes anonymous type to global level and replaces its references" category="_AAgyEey7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvb-uy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.RepositoriesToggleBranchHierarchy" commandName="Toggle Branch Representation" category="_AAgyKuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvb--y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.search.implementors.in.project" commandName="Implementors in Project" description="Search for implementors of the selected interface in the enclosing project" category="_AAgyJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvb_Oy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.team.ApplyPatch" commandName="Apply Patch" category="_AAgyKuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvb_ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ltk.ui.refactoring.commands.deleteResources" commandName="Delete Resources" description="Delete the selected resources and notify LTK participants." category="_AAhZIey7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvb_uy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.file.print" commandName="Print" description="Print" category="_AAgyH-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvb_-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.debug.ui.commands.AllReferences" commandName="All References" description="Inspect all references to the selected object" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAvcAOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.junit.junitShortcut.rerunLast" commandName="Rerun JUnit Test" description="Rerun JUnit Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAvcAOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.junit.junitShortcut.rerunLast" commandName="Rerun JUnit LagacyStudy3.Test" description="Rerun JUnit LagacyStudy3.Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvcAey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.JavaPerspective" commandName="Java" description="Show the Java perspective" category="_AAhZIOy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvcAuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.wst.sse.ui.format.active.elements" commandName="Format Active Elements" description="Format active elements" category="_AAgyEey7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvcA-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.text.showRulerContextMenu" commandName="Show Ruler Context Menu" description="Show the context menu for the ruler" category="_AAgyIuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvcBOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.indent" commandName="Correct Indentation" description="Corrects the indentation of the selected lines" category="_AAhZI-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvcBey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.search.references.in.working.set" commandName="References in Working Set" description="Search for references to the selected element in a working set" category="_AAgyJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvcBuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.tasks.ui.command.task.clearOutgoing" commandName="Clear Outgoing Changes" category="_AAgyGuy7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAvcB-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.ide.copyConfigCommand" commandName="Copy Configuration Data To Clipboard" description="Copies the configuration data (system properties, installed bundles, etc) to the clipboard." category="_AAgyEey7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAvcB-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.ide.copyConfigCommand" commandName="Copy Configuration LagacyStudy3.Data To Clipboard" description="Copies the configuration data (system properties, installed bundles, etc) to the clipboard." category="_AAgyEey7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvcCOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.text.folding.collapse" commandName="Collapse" description="Collapses the folded region at the current selection" category="_AAgyGOy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvcCey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.epp.mpc.ui.command.showFavorites" commandName="Eclipse Marketplace Favorites" description="Open Marketplace Favorites" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvcCuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.text.smartEnterInverse" commandName="Insert Line Above Current Line" description="Adds a new line above the current line" category="_AAgyGOy7Ee2HNPpjDkCvtQ"/>
@@ -2087,7 +2087,7 @@
   <commands xmi:id="_AAvcDOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.window.spy" commandName="Show Contributing Plug-in" description="Shows contribution information for the currently selected element" category="_AAgyIuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvcDey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.help.helpSearch" commandName="Help Search" description="Open the help search" category="_AAgyJOy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvcDuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.infer.type.arguments" commandName="Infer Generic Type Arguments" description="Infer type arguments for references to generic classes and remove unnecessary casts" category="_AAgyI-y7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAvcD-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.builds.ui.command.ShowTestResults.url" commandName="Show Test Results" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAvcD-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.builds.ui.command.ShowTestResults.url" commandName="Show LagacyStudy3.Test Results" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvcEOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.search.ui.performTextSearchProject" commandName="Find Text in Project" description="Searches the files in the project for specific text." category="_AAgyJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvcEey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.text.goto.lineDown" commandName="Line Down" description="Go down one line of text" category="_AAgyGOy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAvcEuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.project.rebuildAll" commandName="Rebuild All" description="Rebuild all projects" category="_AAgyJey7Ee2HNPpjDkCvtQ"/>
@@ -2114,7 +2114,7 @@
     <parameters xmi:id="_AAx31ey7Ee2HNPpjDkCvtQ" elementId="buttonLabel1" name="Second Button Label"/>
     <parameters xmi:id="_AAx31uy7Ee2HNPpjDkCvtQ" elementId="buttonLabel2" name="Third Button Label"/>
     <parameters xmi:id="_AAx31-y7Ee2HNPpjDkCvtQ" elementId="buttonLabel3" name="Fourth Button Label"/>
-    <parameters xmi:id="_AAx32Oy7Ee2HNPpjDkCvtQ" elementId="cancelReturns" name="Return Value on Cancel"/>
+    <parameters xmi:id="_AAx32Oy7Ee2HNPpjDkCvtQ" elementId="cancelReturns" name="Return LagacyStudy3.Value on Cancel"/>
   </commands>
   <commands xmi:id="_AAx32ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.genericeditor.findReferences" commandName="Find References" description="Find other code items referencing the current selected item." category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAx32uy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.text.goto.lineEnd" commandName="Line End" description="Go to the end of the line of text" category="_AAgyGOy7Ee2HNPpjDkCvtQ"/>
@@ -2199,7 +2199,7 @@
   <commands xmi:id="_AAx4Juy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.generate.javadoc" commandName="Generate Javadoc" description="Generates Javadoc for a selectable set of Java resources" category="_AAgyJey7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAx4J-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.RepositoriesViewConfigureGerritRemote" commandName="Gerrit Configuration..." category="_AAgyKuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAx4KOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.debug.ui.commands.StepIntoSelection" commandName="Step Into Selection" description="Step into the current selected statement" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAx4Key7Ee2HNPpjDkCvtQ" elementId="org.eclipse.buildship.ui.shortcut.test.run" commandName="Run Gradle Test" description="Run Gradle test based on the current selection" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAx4Key7Ee2HNPpjDkCvtQ" elementId="org.eclipse.buildship.ui.shortcut.test.run" commandName="Run Gradle LagacyStudy3.Test" description="Run Gradle test based on the current selection" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAx4Kuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.ide.configureColumns" commandName="Configure Columns..." description="Configure the columns in the markers view" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAye4Oy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.team.ReplaceWithCommit" commandName="Replace with commit" category="_AAgyKuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAye4ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.file.exit" commandName="Exit" description="Exit the application" category="_AAgyH-y7Ee2HNPpjDkCvtQ">
@@ -2216,12 +2216,12 @@
   <commands xmi:id="_AAye6-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.team.SimplePush" commandName="Push to Upstream" category="_AAgyKuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAye7Oy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.window.previousView" commandName="Previous View" description="Switch to the previous view" category="_AAgyIuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAye7ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.debug.ui.commands.addMemoryMonitor" commandName="Add Memory Block" description="Add memory block" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAye7uy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.junit.junitShortcut.run" commandName="Run JUnit Test" description="Run JUnit Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAye7uy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.junit.junitShortcut.run" commandName="Run JUnit LagacyStudy3.Test" description="Run JUnit LagacyStudy3.Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAye7-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.generate.tostring" commandName="Generate toString()" description="Generates the toString() method for the type" category="_AAhZI-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAye8Oy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.organize.imports" commandName="Organize Imports" description="Evaluate all required imports and replace the current imports" category="_AAhZI-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAye8ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.PushHeadToGerrit" commandName="Push Current Head to Gerrit" category="_AAgyKuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAye8uy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.selectAll" commandName="Select All" description="Select all" category="_AAgyEey7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAye8-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.swtBotJunitShortcut.coverage" commandName="Coverage SWTBot Test" description="Coverage SWTBot Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAye8-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.swtBotJunitShortcut.coverage" commandName="Coverage SWTBot LagacyStudy3.Test" description="Coverage SWTBot LagacyStudy3.Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAye9Oy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.ide.markers.copyDescription" commandName="Copy Description To Clipboard" description="Copies markers description field to the clipboard" category="_AAgyEey7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAye9ey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.debug.ui.commands.DropToFrame" commandName="Drop to Frame" description="Drop to Frame" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAye9uy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.show.outline" commandName="Quick Outline" description="Show the quick outline for the editor input" category="_AAgyG-y7Ee2HNPpjDkCvtQ"/>
@@ -2276,7 +2276,7 @@
   <commands xmi:id="_AAyfJey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.mylyn.context.ui.commands.focus.view" commandName="Focus View" category="_AAhZJuy7Ee2HNPpjDkCvtQ">
     <parameters xmi:id="_AAyfJuy7Ee2HNPpjDkCvtQ" elementId="viewId" name="View ID to Focus" optional="false"/>
   </commands>
-  <commands xmi:id="_AAyfJ-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.testNgShortcut.coverage" commandName="Coverage TestNG Test" description="Coverage TestNG Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAyfJ-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.eclemma.ui.testNgShortcut.coverage" commandName="Coverage TestNG LagacyStudy3.Test" description="Coverage TestNG LagacyStudy3.Test" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAyfKOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.debug.ui.commands.StepReturn" commandName="Step Return" description="Step return" category="_AAgyJ-y7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAyfKey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.browser.openBundleResource" commandName="Open Resource in Browser" description="Opens a bundle resource in the default web browser." category="_AAgyIuy7Ee2HNPpjDkCvtQ">
     <parameters xmi:id="_AAyfKuy7Ee2HNPpjDkCvtQ" elementId="plugin" name="Plugin"/>
@@ -2345,8 +2345,8 @@
   <commands xmi:id="_AAyfYuy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.dialogs.openInputDialog" commandName="Open Input Dialog" description="Open an Input Dialog" category="_AAgyKOy7Ee2HNPpjDkCvtQ">
     <parameters xmi:id="_AAyfY-y7Ee2HNPpjDkCvtQ" elementId="title" name="Title"/>
     <parameters xmi:id="_AAyfZOy7Ee2HNPpjDkCvtQ" elementId="message" name="Message"/>
-    <parameters xmi:id="_AAyfZey7Ee2HNPpjDkCvtQ" elementId="initialValue" name="Initial Value"/>
-    <parameters xmi:id="_AAyfZuy7Ee2HNPpjDkCvtQ" elementId="cancelReturns" name="Return Value on Cancel"/>
+    <parameters xmi:id="_AAyfZey7Ee2HNPpjDkCvtQ" elementId="initialValue" name="Initial LagacyStudy3.Value"/>
+    <parameters xmi:id="_AAyfZuy7Ee2HNPpjDkCvtQ" elementId="cancelReturns" name="Return LagacyStudy3.Value on Cancel"/>
   </commands>
   <commands xmi:id="_AAyfZ-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.RebaseCurrent" commandName="Rebase" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAyfaOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.extract.class" commandName="Extract Class..." description="Extracts fields into a new class" category="_AAgyI-y7Ee2HNPpjDkCvtQ"/>
@@ -2363,7 +2363,7 @@
   <commands xmi:id="_AAyfc-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.jdt.ui.edit.text.java.search.declarations.in.project" commandName="Declaration in Project" description="Search for declarations of the selected element in the enclosing project" category="_AAgyJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAyfdOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.edit.text.scroll.lineDown" commandName="Scroll Line Down" description="Scroll down one line of text" category="_AAgyGOy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAyfdey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.wst.sse.ui.search.find.occurrences" commandName="Occurrences in File" description="Find occurrences of the selection in the file" category="_AAgyEey7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AAyfduy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.ToggleCoolbarAction" commandName="Toggle Main Toolbar Visibility" description="Toggles the visibility of the window toolbar" category="_AAgyIuy7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AAyfduy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.ToggleCoolbarAction" commandName="Toggle LagacyStudy3.Main Toolbar Visibility" description="Toggles the visibility of the window toolbar" category="_AAgyIuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAyfd-y7Ee2HNPpjDkCvtQ" elementId="org.eclipse.egit.ui.RepositoriesViewImportProjects" commandName="Import Projects..." description="Import or create in local Git repository" category="_AAgyKuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAyfeOy7Ee2HNPpjDkCvtQ" elementId="org.eclipse.wst.sse.ui.outline.customFilter" commandName="&amp;Filters" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AAyfeey7Ee2HNPpjDkCvtQ" elementId="org.eclipse.ui.navigate.openResource" commandName="Open Resource" description="Open an editor on a particular resource" category="_AAgyG-y7Ee2HNPpjDkCvtQ">
@@ -2448,13 +2448,13 @@
   <commands xmi:id="_AaFvsuy7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.VariableViewActions/org.eclipse.jdt.debug.ui.variablesViewActions.AllReferencesInView" commandName="Show References" description="Shows references to each object in the variables view as an array of objects." category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AaFvs-y7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.VariableViewActions/org.eclipse.jdt.debug.ui.variableViewActions.ShowNullEntries" commandName="Show Null Lagacy_Study2.Array Entries" description="Show Null Lagacy_Study2.Array Entries" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AaFvtOy7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.VariableViewActions/org.eclipse.jdt.debug.ui.variableViewActions.ShowQualified" commandName="Show Qualified Names" description="Show Qualified Names" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AaFvtey7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.VariableViewActions/org.eclipse.jdt.debug.ui.variableViewActions.ShowStatic" commandName="Show Static Variables" description="Show Static Variables" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AaFvtey7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.VariableViewActions/org.eclipse.jdt.debug.ui.variableViewActions.ShowStatic" commandName="Show Static LagacyStudy3.Variables" description="Show Static LagacyStudy3.Variables" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AaFvtuy7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.VariableViewActions/org.eclipse.jdt.debug.ui.variableViewActions.ShowConstants" commandName="Show Constants" description="Show Constants" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AaFvt-y7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.ExpressionViewActions/org.eclipse.jdt.debug.ui.variableViewActions.Preferences" commandName="Java Preferences..." description="Opens preferences for Java variables" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AaFvuOy7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.ExpressionViewActions/org.eclipse.jdt.debug.ui.expressionViewActions.AllReferencesInView" commandName="Show References" description="Show &amp;References" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AaFvuey7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.ExpressionViewActions/org.eclipse.jdt.debug.ui.variableViewActions.ShowNullEntries" commandName="Show Null Lagacy_Study2.Array Entries" description="Show Null Lagacy_Study2.Array Entries" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AaFvuuy7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.ExpressionViewActions/org.eclipse.jdt.debug.ui.expressionViewActions.ShowQualified" commandName="Show Qualified Names" description="Show Qualified Names" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
-  <commands xmi:id="_AaFvu-y7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.ExpressionViewActions/org.eclipse.jdt.debug.ui.expressionViewActions.ShowStatic" commandName="Show Static Variables" description="Show Static Variables" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
+  <commands xmi:id="_AaFvu-y7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.ExpressionViewActions/org.eclipse.jdt.debug.ui.expressionViewActions.ShowStatic" commandName="Show Static LagacyStudy3.Variables" description="Show Static LagacyStudy3.Variables" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AaFvvOy7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.ExpressionViewActions/org.eclipse.jdt.debug.ui.expressionViewActions.ShowConstants" commandName="Show Constants" description="Show Constants" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AaGWwOy7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.BreakpointViewActions/org.eclipse.jdt.debug.ui.actions.AddException" commandName="Add Java Exception Breakpoint" description="Add Java Exception Breakpoint" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
   <commands xmi:id="_AaGWwey7Ee2HNPpjDkCvtQ" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.BreakpointViewActions/org.eclipse.jdt.debug.ui.breakpointViewActions.ShowQualified" commandName="Show Qualified Names" description="Show Qualified Names" category="_AAhZJuy7Ee2HNPpjDkCvtQ"/>
