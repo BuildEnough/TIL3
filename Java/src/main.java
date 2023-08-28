@@ -1,10 +1,9 @@
+import java.util.Arrays;
+
 public class main {
     public static void main(String[] args) {
-        byte a = 10;
-        byte b = 20;
+        int[] arr = {10, 20, 30, 40, 50};
 
-        byte c = (byte)(a + b);
-
-        System.out.println(c);
+        System.out.println(arr);
     }
 }
